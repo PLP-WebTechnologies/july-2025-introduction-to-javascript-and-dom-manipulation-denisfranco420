@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background: #f9f9f9;
+}
+
+header {
+  background: #0077cc;
+  color: white;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+button {
+  margin: 10px 5px;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  background: #0077cc;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #005fa3;
+}
+
+#message, #result {
+  font-weight: bold;
+  margin-top: 15px;
+}
+
+ul {
+  list-style: circle;
+  margin-top: 10px;
+}
